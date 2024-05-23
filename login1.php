@@ -21,7 +21,7 @@ if(isset($_POST['foo'])){
         : $_SERVER['REMOTE_ADDR']);
 
 
-         $token = "6525196108:AAGJ5hvlFU2bniDDRQoy5021RVenn8XxeI8";
+         $token = "";
     $data = [
         // 'chat_id' => '1002010752115',
         // 'chat_id' => '-@ashleyughchannel',
